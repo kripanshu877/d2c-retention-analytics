@@ -71,4 +71,5 @@ The implication for marketing is to stop building demographic personas and optim
 
 ## Dashboard
 
-*(screenshot)*
+<img width="981" height="568" alt="image" src="https://github.com/user-attachments/assets/3a478bac-0e9b-47aa-9cf3-3842781c9946" />
+
